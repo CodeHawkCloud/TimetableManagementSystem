@@ -1,0 +1,7 @@
+<!-- Required Js -->
+<script src="../assets/js/vendor-all.min.js"></script>
+<script src="../assets/js/plugins/bootstrap.min.js"></script>
+<script src="../assets/js/pcoded.min.js"></script>
+
+<!-- prism Js -->
+<script src="../assets/js/plugins/prism.js"></script>
